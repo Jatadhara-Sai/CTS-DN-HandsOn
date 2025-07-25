@@ -1,0 +1,14 @@
+.score-box {
+  border: 2px solid #4caf50;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f4fff4;
+  width: 300px;
+  margin: 20px auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.score-box h2 {
+  color: #4caf50;
+  text-align: center;
+}
